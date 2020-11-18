@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e440cbbb-5001-45a3-898c-f27bb224da7b" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/project/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\project\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+    <option name="disabledProfiles">
+      <list>
+        <option value="nexus" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="1gw6P3BKk3QXpD3BZq6okwQsE58" />
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../workspace-jeecgboot/jeecg-boot" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.nb.nbbase2" />
+      <recent name="com.nb.nbbase2.config" />
+      <recent name="com.nb.nbbase2.utils" />
+      <recent name="com.nb.nbbase2.beans" />
+      <recent name="com.nb.nbbase2.codegen" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\share\workspace-crud\nb-base-dict\src\main\resources\SQL" />
+      <recent name="D:\share\workspace-crud\nb-base-dict\src\main\java\com\nb\nbbase2\service\impl" />
+      <recent name="D:\share\workspace-crud\nb-base-dict\src\main\java\com\nb\nbbase2\service" />
+      <recent name="D:\share\workspace-crud\nb-base-dict\src\main\resources\mapper" />
+      <recent name="D:\share\workspace-crud\nb-base-dict\src\main\java\com\nb\nbbase2\mapper" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.NbBase2Application">
+    <configuration name="Car" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.nb.nbbase2.entity.Car" />
+      <module name="nb-base-dict" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nb.nbbase2.entity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyDelayQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.nb.nbbase2.utils.MyDelayQueue" />
+      <module name="nb-base-dict" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nb.nbbase2.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="T07_DelayQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.nb.nbbase2.utils.T07_DelayQueue" />
+      <module name="nb-base-dict" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nb.nbbase2.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.nb.nbbase2.codegen.TestGenerator" />
+      <module name="nb-base-dict" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nb.nbbase2.codegen.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SampleTest.insert" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="nb-base-dict" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nb.nbbase2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.nb.nbbase2" />
+      <option name="MAIN_CLASS_NAME" value="com.nb.nbbase2.SampleTest" />
+      <option name="METHOD_NAME" value="insert" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NbBase2Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="nb-base-dict" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.nb.nbbase2.NbBase2Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SampleTest.insert" />
+        <item itemvalue="Application.TestGenerator" />
+        <item itemvalue="Application.MyDelayQueue" />
+        <item itemvalue="Application.T07_DelayQueue" />
+        <item itemvalue="Application.Car" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e440cbbb-5001-45a3-898c-f27bb224da7b" name="Default Changelist" comment="" />
+      <created>1599013279696</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599013279696</updated>
+      <workItem from="1599013285138" duration="1205000" />
+      <workItem from="1599014504352" duration="2677000" />
+      <workItem from="1599039473260" duration="3556000" />
+      <workItem from="1599096651822" duration="15975000" />
+      <workItem from="1599183649928" duration="6597000" />
+      <workItem from="1599202871188" duration="2956000" />
+      <workItem from="1599398389953" duration="2732000" />
+      <workItem from="1599441586070" duration="464000" />
+      <workItem from="1599446305942" duration="3731000" />
+      <workItem from="1599467054819" duration="2050000" />
+      <workItem from="1599543354227" duration="14500000" />
+      <workItem from="1599614605836" duration="18545000" />
+      <workItem from="1599641518131" duration="6239000" />
+      <workItem from="1599699049531" duration="638000" />
+      <workItem from="1599720925473" duration="1925000" />
+      <workItem from="1599728203457" duration="1952000" />
+      <workItem from="1599977736293" duration="9805000" />
+      <workItem from="1600044698062" duration="3363000" />
+      <workItem from="1600055141569" duration="982000" />
+      <workItem from="1600058422333" duration="2479000" />
+      <workItem from="1600066249273" duration="3455000" />
+      <workItem from="1600075782140" duration="2058000" />
+      <workItem from="1600414069085" duration="47000" />
+      <workItem from="1600755836196" duration="975000" />
+      <workItem from="1600760046530" duration="2562000" />
+      <workItem from="1600772040708" duration="1175000" />
+      <workItem from="1600832770781" duration="14000" />
+      <workItem from="1601110623668" duration="2497000" />
+      <workItem from="1601169011867" duration="672000" />
+      <workItem from="1601346313626" duration="7262000" />
+      <workItem from="1602208935683" duration="1285000" />
+      <workItem from="1602295488318" duration="547000" />
+      <workItem from="1602570410036" duration="2740000" />
+      <workItem from="1602917168601" duration="6686000" />
+      <workItem from="1603169591877" duration="1894000" />
+      <workItem from="1603180323639" duration="130000" />
+      <workItem from="1603675488876" duration="16000" />
+      <workItem from="1603675744409" duration="942000" />
+      <workItem from="1603868546083" duration="11360000" />
+      <workItem from="1603933941339" duration="338000" />
+      <workItem from="1605079381200" duration="2434000" />
+      <workItem from="1605162479662" duration="11055000" />
+      <workItem from="1605665131160" duration="7410000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/nb/nbbase2/utils/SpringTest.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.2.6.RELEASE/spring-web-5.2.6.RELEASE-sources.jar!/org/springframework/web/context/ContextLoaderListener.java</url>
+          <line>102</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.2.6.RELEASE/spring-web-5.2.6.RELEASE-sources.jar!/org/springframework/web/context/ContextLoaderListener.java</url>
+          <line>93</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.2.6.RELEASE/spring-web-5.2.6.RELEASE-sources.jar!/org/springframework/web/context/ContextLoader.java</url>
+          <line>331</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.2.6.RELEASE/spring-web-5.2.6.RELEASE-sources.jar!/org/springframework/web/context/ContextLoader.java</url>
+          <line>336</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.2.6.RELEASE/spring-web-5.2.6.RELEASE-sources.jar!/org/springframework/web/context/ContextLoader.java</url>
+          <line>261</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/nb/nbbase2/beanfactory/MyInstantiationAwareBeanPostProcessor.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

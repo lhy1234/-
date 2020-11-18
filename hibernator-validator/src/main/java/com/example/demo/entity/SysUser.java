@@ -66,4 +66,15 @@ public class SysUser {
     public void setRealName(String realName) {
         this.realName = realName;
     }
+
+    @Override
+    public String toString() {
+        return "SysUser{" +
+                "id=" + id +
+                ", username='" + username + '\'' +
+                ", password='" + password + '\'' +
+                ", email='" + email + '\'' +
+                ", realName='" + realName + '\'' +
+                '}';
+    }
 }
